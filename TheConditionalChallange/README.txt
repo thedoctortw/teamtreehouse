@@ -1,1 +1,0 @@
-teamtreehouse "the conditional challange" under the javascript basics section.
